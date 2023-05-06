@@ -6,6 +6,8 @@ public class Class01 {
         int b=7;
         System.out.println(a*b);
 
+        //V2 kodlari
+
 
 
     }
