@@ -13,6 +13,9 @@ public class Class01 {
         //v4 olustur
         
         //github degisiklik
+
+        //localden sevgilerle
+
         
 
 
