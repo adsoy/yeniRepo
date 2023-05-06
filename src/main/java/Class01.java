@@ -14,7 +14,7 @@ public class Class01 {
         
         //github degisiklik
 
-        //localden sevgilerle
+        //localden s
 
         
 
